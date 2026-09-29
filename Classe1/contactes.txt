@@ -1,0 +1,5 @@
+contacte_m;666554433;m@gmail.com
+contacte_j;777889900;j@gmail.com
+comtacte_v;111223344;v@gmail.com
+contacte_n;555667788;n@gmail.com
+contacte_s;999001122;s@gmail.com
